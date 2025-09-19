@@ -1,4 +1,4 @@
-# Socket-io
+# 🌸 Socket-io 🌸
 
 ## ¿Qué construí?
 Un **chat en tiempo real** con Node.js, Express y Socket.IO, HTML/CSS.  
